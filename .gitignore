@@ -70,3 +70,6 @@ coverage/
 # Firebase distribution
 google-services.json
 GoogleService-Info.plist
+
+# fvm
+.fvm/
